@@ -1,13 +1,36 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #1b2531 !important;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.css-19z1ozs-MuiPaper-root-MuiAppBar-root {
+  background: #ffffff !important;
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  background: #273143 !important;
+}
+.css-2dum1v-MuiDrawer-docked .MuiDrawer-paper {
+  background: #273143 !important;
+  height: 100vh;
+}
+
+.css-10hburv-MuiTypography-root {
+  font-size: 12px !important;
+  padding: 0 5px !important;
+  white-space: wrap; /* Prevents line breaks for single-word content */
+  text-align: center;
+}
+
+.css-10hburv-MuiTypography-root > span {
+  white-space: normal; /* Allows line breaks for multi-word content */
+  text-align: center;
 }

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "imgPath": "https://i.pinimg.com/originals/f0/87/ff/f087ff83c6171949c8b77f049e500b3b.jpg",
+            "imageFeatureScore": 81,
+            "colorSpectrumScore": 43,
+            "totalSimilarityScore": 86
+        },
+        {
+            "id": 2,
+            "imgPath": "https://i.pinimg.com/originals/21/cc/a3/21cca33a822ae167e42253f1ff41ec41.jpg",
+            "imageFeatureScore": 62,
+            "colorSpectrumScore": 99,
+            "totalSimilarityScore": 28
+        },
+        {
+            "id": 3,
+            "imgPath": "https://i.pinimg.com/originals/61/14/df/6114df73e6b77bad0f086422546a398a.png",
+            "imageFeatureScore": 90,
+            "colorSpectrumScore": 25,
+            "totalSimilarityScore": 0
+        },
+        {
+            "id": 4,
+            "imgPath": "https://i.pinimg.com/originals/76/0e/65/760e65d1bfe1f7c98a58dc6e374dab65.jpg",
+            "imageFeatureScore": 19,
+            "colorSpectrumScore": 10,
+            "totalSimilarityScore": 91
+        },
+        {
+            "id": 5,
+            "imgPath": "https://i.pinimg.com/originals/b9/89/15/b9891553242f69ff73e67441798421c6.jpg",
+            "imageFeatureScore": 85,
+            "colorSpectrumScore": 41,
+            "totalSimilarityScore": 5
+        }
+    ]
+}
